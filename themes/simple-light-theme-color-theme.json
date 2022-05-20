@@ -686,11 +686,12 @@
 	"tokenColors": [
 		{
 			"scope": [
-				"support.function.go", // 方法颜色
+				"support.function", // 方法调用
+				"entity.name.function"
 			],
 			"settings": {
-				"foreground": "#000000",
-				"fontStyle": "italic"
+				"foreground": "#8250DF",
+				// "fontStyle": "italic"
 			}
 		},
 		{
