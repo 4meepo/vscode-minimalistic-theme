@@ -700,8 +700,7 @@
 				"entity.name.function"
 			],
 			"settings": {
-				"foreground": "#8250DF",
-				// "fontStyle": "italic"
+				"foreground": "#5a0b9f"
 			}
 		},
 		{
@@ -715,11 +714,11 @@
 		},
 		{
 			"scope": [
-				"keyword.operator.address.go"  // * & 符号颜色
+				"keyword.operator.address.go" // * & 符号颜色
 			],
 			"settings": {
 				"foreground": "#0d00ff",
-				"fontStyle": "bold"
+				"fontStyle": "bold italic"
 			}
 		},
 		{
@@ -759,7 +758,8 @@
 			"scope": [
 				"constant.language",
 				"keyword.operator.assignment.go",
-				"keyword.operator.comparison.go"
+				"keyword.operator.comparison.go",
+				"keyword.control"
 			],
 			"settings": {
 				"foreground": "#0000FF"
