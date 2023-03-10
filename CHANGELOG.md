@@ -1,5 +1,9 @@
 # Change Log
 
+## [0.0.5]
+
+- 加入无border的主题
+
 ## [0.0.4]
 
 - 调整function 颜色
