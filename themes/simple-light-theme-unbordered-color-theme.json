@@ -47,20 +47,28 @@
 		"panel.border": "#a4adb5",
 		"panelSection.border": "#ff0000",
 		"panelInput.border": "#ffffff",
-		// "panelTitle.activeBorder": "#fd8c73",
 		"panelTitle.activeForeground": "#24292f",
-		// "panelTitle.inactiveForeground": "#57606a",
 		"editorGroup.emptyBackground": "#ffffff",
 		// 顶部窗口
 		"titleBar.activeBackground": "#ffffff",
 		"titleBar.inactiveBackground": "#ffffff",
+
 		// 选项卡
 		"tab.inactiveBackground": "#ffffff",
+		"tab.activeBackground": "#ffffff",
+		"tab.activeBorderTop": "#0000ff",
+		"tab.activeForeground": "#000000",   // 选中选项卡字体颜色
+		"tab.inactiveForeground": "#00000066", // 其他选项卡字体颜色
 		"tab.border": "#ffffff",
+		"tab.hoverForeground": "#000000",
+		"tab.unfocusedActiveBorderTop": "#ffffff", // 其他组未focus的当前tab
+		"tab.unfocusedActiveForeground": "#000000",
+		"tab.unfocusedInactiveForeground": "#00000066", //  其他组其他选项卡字体颜色
+
+
 		"editorGroupHeader.tabsBackground": "#ffffff",
 
 		// scroll bar 滚动条
-
 		"scrollbar.shadow": "#ffffff",
 		"scrollbarSlider.background": "#00000010",
 
