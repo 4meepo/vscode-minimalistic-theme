@@ -65,6 +65,9 @@
 		"tab.unfocusedActiveForeground": "#000000",
 		"tab.unfocusedInactiveForeground": "#00000066", //  其他组其他选项卡字体颜色
 
+		// 列表中未选中的行的背景色
+        "list.inactiveSelectionBackground": "#4e4e4e10",
+		"list.inactiveSelectionForeground": "#0000ff",
 
 		"editorGroupHeader.tabsBackground": "#ffffff",
 
