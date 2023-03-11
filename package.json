@@ -2,7 +2,7 @@
     "name": "simple-light-theme",
     "displayName": "simple-light-theme",
     "description": "A simple light theme which is color blind friendlly.",
-    "version": "0.0.5",
+    "version": "0.0.6",
     "engines": {
         "vscode": "^1.67.0"
     },
@@ -12,14 +12,14 @@
     "contributes": {
         "themes": [
             {
-                "label": "simple-light-theme",
-                "uiTheme": "vs",
-                "path": "./themes/simple-light-theme-color-theme.json"
-            },
-            {
                 "label": "simple-light-theme-unbordered",
                 "uiTheme": "vs",
                 "path": "./themes/simple-light-theme-unbordered-color-theme.json"
+            },
+            {
+                "label": "simple-light-theme",
+                "uiTheme": "vs",
+                "path": "./themes/simple-light-theme-color-theme.json"
             }
         ]
     },
