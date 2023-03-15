@@ -2,4 +2,10 @@
 
 This is my customized theme for VSCode. It's extremly minimalistic.
 
-![preview](docs/preview.jpg)
+## Light Unbordered
+
+![light-unbordered](docs/light-unbordered.jpg)
+
+## Dark Unbordered
+
+![dark-unbordered](docs/dark-unbordered.jpg)
