@@ -28,7 +28,6 @@
 		"editor.selectionHighlightBackground": "#add6ff80",
 		"editorIndentGuide.activeBackground": "#939393",
 		"editorIndentGuide.background": "#d3d3d3",
-		"editorSuggestWidget.background": "#f3f3f3",
 		"editorGroupHeader.tabsBackground": "#1F1F1F",
 		"editorGroup.emptyBackground": "#1F1F1F",
 
@@ -51,7 +50,6 @@
 		"panel.background": "#1F1F1F",
 		"panel.border": "#a4adb520",
 		"panelSection.border": "#ff0000",
-		"panelInput.border": "#ffffff",
 		"panelTitle.activeForeground": "#ffffff",
 
 
@@ -71,7 +69,7 @@
 		"tab.unfocusedActiveForeground": "#ffffff",
 		"tab.unfocusedInactiveForeground": "#ffffff70", //  其他组其他选项卡字体颜色
 
-		"list.activeSelectionIconForeground": "#ffffff",
+		"list.activeSelectionIconForeground": "#1F1F1F",
 		"list.activeSelectionBackground": "#00000070",
 		"list.hoverBackground": "#1F1F1F",
 		"list.hoverForeground": "#eee",
