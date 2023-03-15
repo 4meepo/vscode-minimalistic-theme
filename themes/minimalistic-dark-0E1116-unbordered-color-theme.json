@@ -18,7 +18,7 @@
         "statusBar.debuggingBackground": "#ac5e00",
         "statusBar.debuggingForeground": "#ffffff",
         "statusBar.foreground": "#eeffff80",
-        "statusBar.noFolderBackground": "#ffffff",
+        "statusBar.noFolderBackground": "#0E1116",
         "statusBarItem.prominentBackground": "#f6f8fa",
         // editor
         "editor.inactiveSelectionBackground": "#ffffff",
@@ -53,7 +53,7 @@
         "tab.inactiveBackground": "#0E1116",
         "tab.activeBackground": "#0E1116",
         "tab.activeBorderTop": "#23a537",
-        "tab.activeForeground": "#ffffff", // 选中选项卡字体颜色
+        "tab.activeForeground": "#ffffff", // 选中选卡字体颜色
         "tab.inactiveForeground": "#ffffff70", // 其他选项卡字体颜色
         "tab.border": "#0E1116",
         "tab.hoverForeground": "#ffffff",

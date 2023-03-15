@@ -20,7 +20,7 @@
 		"statusBar.debuggingBackground": "#ac5e00",
 		"statusBar.debuggingForeground": "#ffffff",
 		"statusBar.foreground": "#eeffff80",
-		"statusBar.noFolderBackground": "#ffffff",
+		"statusBar.noFolderBackground": "#1F1F1F",
 		"statusBarItem.prominentBackground": "#f6f8fa",
 
 		// editor
