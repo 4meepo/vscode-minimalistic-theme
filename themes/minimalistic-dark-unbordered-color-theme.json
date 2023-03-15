@@ -69,8 +69,8 @@
 		"tab.unfocusedActiveForeground": "#ffffff",
 		"tab.unfocusedInactiveForeground": "#ffffff70", //  其他组其他选项卡字体颜色
 
-		"list.activeSelectionIconForeground": "#1F1F1F",
-		"list.activeSelectionBackground": "#00000070",
+		"list.activeSelectionIconForeground": "#eee",
+		"list.activeSelectionBackground": "#2C2C2C",
 		"list.hoverBackground": "#1F1F1F",
 		"list.hoverForeground": "#eee",
 		// 列表中未选中的行的背景色
