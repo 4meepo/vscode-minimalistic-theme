@@ -2,7 +2,7 @@
     "name": "minimalistic-theme",
     "displayName": "Minimalistic Theme",
     "description": "A minimalistic theme which is color blind friendlly.",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "engines": {
         "vscode": "^1.74.0"
     },
@@ -22,9 +22,14 @@
                 "path": "./themes/minimalistic-light-color-theme.json"
             },
             {
-                "label": "minimalistic dark unbordered",
+                "label": "minimalistic dark 1F1F1F unbordered",
                 "uiTheme": "vs-dark",
-                "path": "./themes/minimalistic-dark-unbordered-color-theme.json"
+                "path": "./themes/minimalistic-dark-1F1F1F-unbordered-color-theme.json"
+            },
+            {
+                "label": "minimalistic dark 0E1116 unbordered",
+                "uiTheme": "vs-dark",
+                "path": "./themes/minimalistic-dark-0E1116-unbordered-color-theme.json"
             }
         ]
     },
