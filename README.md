@@ -1,5 +1,5 @@
-# Simple Light Theme
+# vscode-minimalistic-theme
 
-This is my customized light theme for VSCode.
+This is my customized theme for VSCode. It's extremly minimalistic.
 
 ![preview](docs/preview.jpg)
