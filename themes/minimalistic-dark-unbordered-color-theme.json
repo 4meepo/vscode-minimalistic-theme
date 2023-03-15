@@ -1,12 +1,106 @@
 {
-	"name": "dark-simple",
+	"name": "minimalistic dark unbordered",
 	"colors": {
-		"editor.background": "#263238",
+		// 1F1F1F
+		"editor.background": "#1F1F1F",
 		"editor.foreground": "#eeffff",
-		"activityBarBadge.background": "#007acc",
-		"sideBarTitle.foreground": "#bbbbbb"
+
+		// activity bar
+		"activityBar.activeBorder": "#fd8c73",
+		"activityBar.background": "#1F1F1F",
+		"activityBar.border": "#1F1F1F",
+		"activityBar.foreground": "#ffffff",
+		"activityBar.inactiveForeground": "#57606a",
+		"activityBarBadge.background": "#0969da",
+		"activityBarBadge.foreground": "#ffffff",
+
+		// status bar
+		"statusBar.background": "#1F1F1F",
+		"statusBar.border": "#1F1F1F",
+		"statusBar.debuggingBackground": "#ac5e00",
+		"statusBar.debuggingForeground": "#ffffff",
+		"statusBar.foreground": "#eeffff80",
+		"statusBar.noFolderBackground": "#ffffff",
+		"statusBarItem.prominentBackground": "#f6f8fa",
+
+		// editor
+		"editor.inactiveSelectionBackground": "#ffffff",
+		"editor.selectionHighlightBackground": "#add6ff80",
+		"editorIndentGuide.activeBackground": "#939393",
+		"editorIndentGuide.background": "#d3d3d3",
+		"editorSuggestWidget.background": "#f3f3f3",
+		"editorGroupHeader.tabsBackground": "#1F1F1F",
+		"editorGroup.emptyBackground": "#1F1F1F",
+
+		"input.placeholderForeground": "#767676",
+		"notebook.cellBorderColor": "#e8e8e8",
+		"notebook.selectedCellBackground": "#c8ddf150",
+		"ports.iconRunningProcessForeground": "#369432",
+		"searchEditor.textInputBorder": "#cecece",
+
+		// sidebar
+		"sideBar.background": "#1F1F1F",
+		"sideBar.border": "#1F1F1F",
+		"sideBar.foreground": "#999999",
+		"sideBarSectionHeader.background": "#1F1F1F",
+		"sideBarSectionHeader.border": "#1F1F1F",
+		"sideBarSectionHeader.foreground": "#82e1d9",
+		"sideBarTitle.foreground": "#ffffff",
+
+		// panel
+		"panel.background": "#1F1F1F",
+		"panel.border": "#a4adb520",
+		"panelSection.border": "#ff0000",
+		"panelInput.border": "#ffffff",
+		"panelTitle.activeForeground": "#ffffff",
+
+
+		// 顶部窗口
+		"titleBar.activeBackground": "#1F1F1F",
+		"titleBar.inactiveBackground": "#1F1F1F",
+		// 选项卡
+		"tab.lastPinnedBorder": "#61616130",
+		"tab.inactiveBackground": "#1F1F1F",
+		"tab.activeBackground": "#1F1F1F",
+		"tab.activeBorderTop": "#23a537",
+		"tab.activeForeground": "#ffffff", // 选中选项卡字体颜色
+		"tab.inactiveForeground": "#ffffff70", // 其他选项卡字体颜色
+		"tab.border": "#1F1F1F",
+		"tab.hoverForeground": "#ffffff",
+		"tab.unfocusedActiveBorderTop": "#1F1F1F", // 其他组未focus的当前tab
+		"tab.unfocusedActiveForeground": "#ffffff",
+		"tab.unfocusedInactiveForeground": "#ffffff70", //  其他组其他选项卡字体颜色
+
+		"list.activeSelectionIconForeground": "#ffffff",
+		"list.activeSelectionBackground": "#00000070",
+		"list.hoverBackground": "#1F1F1F",
+		"list.hoverForeground": "#eee",
+		// 列表中未选中的行的背景色
+		"list.inactiveSelectionBackground": "#d4979710",
+		"list.inactiveSelectionForeground": "#e2e0e0",
+		// scroll bar 滚动条
+		"scrollbarSlider.background": "#6a555570",
+
 	},
 	"tokenColors": [
+		{
+			"scope": [
+				"constant.other.placeholder.go", // 占位符颜色
+			],
+			"settings": {
+				"foreground": "#d2fc00",
+				"fontStyle": "italic"
+			}
+		},
+		{
+			"scope": [
+				"keyword.operator.address.go" // * & 符号颜色
+			],
+			"settings": {
+				"foreground": "#4ccd14",
+				"fontStyle": "bold italic"
+			}
+		},
 		{
 			"name": "Comment",
 			"scope": [

@@ -1,4 +1,4 @@
-# vscode-minimalistic-theme
+# VSCode Minimalistic Theme
 
 This is my customized theme for VSCode. It's extremly minimalistic.
 
