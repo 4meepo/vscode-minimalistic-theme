@@ -3,7 +3,7 @@
     "colors": {
         // 0E1116
         "editor.background": "#0E1116",
-        "editor.foreground": "#eeffff",
+        "editor.foreground": "#C9D1D9",
         // activity bar
         "activityBar.activeBorder": "#fd8c73",
         "activityBar.background": "#0E1116",
@@ -71,6 +71,16 @@
         "scrollbarSlider.background": "#6a555570",
     },
     "tokenColors": [
+        {
+            "scope": [
+                "source.go", // 占位符颜色
+                "variable.other.assignment.go"
+            ],
+            "settings": {
+                "foreground": "#b2e0e2",
+            }
+        },
+
         {
             "scope": [
                 "constant.other.placeholder.go", // 占位符颜色
@@ -157,7 +167,7 @@
                 "keyword.other.substitution"
             ],
             "settings": {
-                "foreground": "#89DDFF"
+                "foreground": "#EF8377"
             }
         },
         {
