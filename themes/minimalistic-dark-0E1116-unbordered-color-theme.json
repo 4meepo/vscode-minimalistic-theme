@@ -27,6 +27,8 @@
         "editorIndentGuide.background": "#d3d3d3",
         "editorGroupHeader.tabsBackground": "#0E1116",
         "editorGroup.emptyBackground": "#0E1116",
+        "editorSuggestWidget.background": "#17181c",
+
         "input.placeholderForeground": "#767676",
         "notebook.cellBorderColor": "#e8e8e8",
         "notebook.selectedCellBackground": "#c8ddf150",
@@ -60,8 +62,11 @@
         "tab.unfocusedActiveBorderTop": "#0E1116", // 其他组未focus的当前tab
         "tab.unfocusedActiveForeground": "#ffffff",
         "tab.unfocusedInactiveForeground": "#ffffff70", //  其他组其他选项卡字体颜色
-        "list.activeSelectionIconForeground": "#eee",
-        "list.activeSelectionBackground": "#2C2C2C",
+        // list
+        "quickInputList.focusBackground": "#80858c70",
+        "quickInput.background": "#17181c",
+        "list.activeSelectionIconForeground": "#eeeeee",
+        "list.activeSelectionBackground": "#a08888",
         "list.hoverBackground": "#0E1116",
         "list.hoverForeground": "#eee",
         // 列表中未选中的行的背景色
