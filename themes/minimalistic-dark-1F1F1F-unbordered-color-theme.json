@@ -39,7 +39,7 @@
 
 		// sidebar
 		"sideBar.background": "#1F1F1F",
-		"sideBar.border": "#1F1F1F",
+		"sideBar.border": "#2C2C2C",
 		"sideBar.foreground": "#999999",
 		"sideBarSectionHeader.background": "#1F1F1F",
 		"sideBarSectionHeader.border": "#1F1F1F",

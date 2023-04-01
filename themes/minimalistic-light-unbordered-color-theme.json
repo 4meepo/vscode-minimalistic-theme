@@ -39,7 +39,7 @@
 		"settings.numberInputBorder": "#cecece",
 		"settings.textInputBorder": "#cecece",
 		"sideBar.background": "#ffffff",
-		"sideBar.border": "#ffffff",
+		"sideBar.border": "#EDEDED",
 		"sideBar.foreground": "#24292f",
 		"sideBarSectionHeader.background": "#ffffff",
 		"sideBarSectionHeader.border": "#ffffff",
@@ -77,7 +77,6 @@
 		// scroll bar 滚动条
 		"scrollbar.shadow": "#ffffff",
 		"scrollbarSlider.background": "#00000010",
-
 	},
 	"tokenColors": [
 		{
