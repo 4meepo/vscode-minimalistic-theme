@@ -1,5 +1,9 @@
 # Change Log
 
+## [1.0.8]
+
+- 为 DiffEditor 配置颜色
+
 ## [0.0.6]
 
 - 加入无border主题的 选项卡高亮展示

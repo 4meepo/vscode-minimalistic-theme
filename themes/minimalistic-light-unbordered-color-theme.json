@@ -26,8 +26,8 @@
 		// editor
 		"editor.inactiveSelectionBackground": "#ffffff",
 		"editor.selectionHighlightBackground": "#add6ff80",
-		"editorIndentGuide.activeBackground": "#939393",
-		"editorIndentGuide.background": "#d3d3d3",
+		"editorIndentGuide.activeBackground1": "#939393",
+		"editorIndentGuide.background1": "#d3d3d3",
 		"editorSuggestWidget.background": "#f3f3f3",
 		"input.placeholderForeground": "#767676",
 		"list.activeSelectionIconForeground": "#ffffff",
@@ -52,6 +52,16 @@
 		"panelInput.border": "#ffffff",
 		"panelTitle.activeForeground": "#24292f",
 		"editorGroup.emptyBackground": "#ffffff",
+
+		// diffEditor
+		"diffEditor.insertedTextBackground": "#a0f5b4",
+		"diffEditor.insertedLineBackground": "#00000000",
+		"diffEditorGutter.insertedLineBackground": "#00000000",
+		"diffEditor.removedTextBackground": "#eb919b",
+		"diffEditor.removedLineBackground": "#00000000",
+		"diffEditorGutter.removedLineBackground": "#00000000",
+		"diffEditor.diagonalFill": "#00000000",
+
 		// 顶部窗口
 		"titleBar.activeBackground": "#ffffff",
 		"titleBar.inactiveBackground": "#ffffff",

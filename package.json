@@ -2,7 +2,7 @@
     "name": "minimalistic-theme",
     "displayName": "Minimalistic Theme",
     "description": "A minimalistic theme which is color blind friendlly.",
-    "version": "1.0.7",
+    "version": "1.0.8",
     "engines": {
         "vscode": "^1.74.0"
     },

@@ -26,10 +26,19 @@
 		// editor
 		"editor.inactiveSelectionBackground": "#ffffff",
 		"editor.selectionHighlightBackground": "#add6ff80",
-		"editorIndentGuide.activeBackground": "#939393",
-		"editorIndentGuide.background": "#d3d3d3",
+		"editorIndentGuide.activeBackground1": "#939393",
+		"editorIndentGuide.background1": "#d3d3d3",
 		"editorGroupHeader.tabsBackground": "#1F1F1F",
 		"editorGroup.emptyBackground": "#1F1F1F",
+
+		// diffEditor
+		"diffEditor.insertedTextBackground": "#2F5631",
+		"diffEditor.insertedLineBackground": "#00000000",
+		"diffEditorGutter.insertedLineBackground": "#00000000",
+		"diffEditor.removedTextBackground": "#e00000",
+		"diffEditor.removedLineBackground": "#00000000",
+		"diffEditorGutter.removedLineBackground": "#00000000",
+		"diffEditor.diagonalFill": "#00000000",
 
 		"input.placeholderForeground": "#767676",
 		"notebook.cellBorderColor": "#e8e8e8",
